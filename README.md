@@ -1,7 +1,8 @@
 # Roblox Signup/Login Screen
 
 This is a remake of Roblox Signup/Login screen I made in Figma. 
-Link to the Figma project: https://www.figma.com/proto/cFKxI04GDrL44C6zmTDbWv/Roblox?node-id=2-91&t=pCdTN4gyp0Mb56Uj-1
+
+Link to the Figma project: https://www.figma.com/community/file/1538796507832976320
 
 ## Login Screen
 ![Login screen](https://github.com/user-attachments/assets/52cbb189-65bb-4714-88a6-e5d661c807fe)
